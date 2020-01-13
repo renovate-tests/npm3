@@ -1,5 +1,5 @@
 {
   "npm": {
-    "commitMessageExtra": "from {{#if isSingleVersion}}v{{{fromVersion}}} to v{{{toVersion}}}{{else}}{{{currentValue}}} to {{{newValue}}}{{/if}}"
+    "commitMessageExtra": "from {{{currentValue}}} to {{{newValue}}}"
   }
 }
