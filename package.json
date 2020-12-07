@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@babel/core": "7.8.0",
+    "@babel/core": "7.12.9",
     "chalk": "2.0.0"
   }
 }
